@@ -7,7 +7,7 @@ I am working on various projects with React, React Native and Python
 
 ## Contact Me
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/thomas-fishwick-313459172/)
-[<img alt="Stack Overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>](https://stackoverflow.com/users/story/14416333)
+[<img alt="Stack Overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>](https://stackoverflow.com/users/14416333/link477)
 [<img alt="Twitter" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FTomFishwick477">](https://twitter.com/TomFishwick477)
 
 ## Technologies
