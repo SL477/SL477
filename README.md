@@ -1,14 +1,16 @@
 👋 Hi, I’m Thomas Fishwick
 I am a Developer and Data Scientist
 
-Currently I am learning data science with Python, MATLAB and R at DataCamp and City University
+<!--Currently I am learning data science with Python, MATLAB and R at DataCamp and City University-->
+Currently I am a Developer at Focus Legal Solutions working on 3E developments and other ASP.Net sites.
+Recently graduated from a Data Science Masters at City University.
 
 I am working on various projects with React, React Native and Python
 
 ## Contact Me
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/thomas-fishwick-313459172/)
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>](https://stackoverflow.com/users/14416333/link477)
-[<img alt="Twitter" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FTomFishwick477">](https://twitter.com/TomFishwick477)
+<!-- [<img alt="Twitter" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FTomFishwick477">](https://twitter.com/TomFishwick477) -->
 
 ## Technologies
 <!--<img align="left" alt="python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="100px"/>-->
